@@ -1,0 +1,13 @@
+{
+  "name": "jest-9473",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "ioredis": "^4.16.1",
+    "jest": "^25.2.7"
+  }
+}
